@@ -1,1 +1,2 @@
-# College_Projects
+Travel Explorer is a dynamic and user-friendly travel website built using React and React Router. This platform allows users to explore various travel destinations, view detailed information, and seamlessly navigate between pages without reloading. With a modern and responsive design, the website offers a smooth user experience, featuring interactive destination pages, travel guides, and booking options. React Router ensures efficient navigation, enabling users to switch between home, destinations, about, and contact pages effortlessly. Whether you're planning your next adventure or just browsing for inspiration, Travel Explorer makes travel planning easy and enjoyable!
+if you can explore more, because developer does not stop at a point. 
